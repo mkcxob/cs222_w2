@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs222_w2", "cs222_w2.csproj", "{A2F979D5-CCD3-C6F2-33D8-78BA5B27807E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorTests", "FactorTests\FactorTests.csproj", "{94A1BFA3-42B3-4FEA-B32A-0ED248F61B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F979D5-CCD3-C6F2-33D8-78BA5B27807E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F979D5-CCD3-C6F2-33D8-78BA5B27807E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F979D5-CCD3-C6F2-33D8-78BA5B27807E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F979D5-CCD3-C6F2-33D8-78BA5B27807E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A1BFA3-42B3-4FEA-B32A-0ED248F61B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A1BFA3-42B3-4FEA-B32A-0ED248F61B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A1BFA3-42B3-4FEA-B32A-0ED248F61B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A1BFA3-42B3-4FEA-B32A-0ED248F61B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2D7BDC-8D63-4810-9DD9-7F99F8E3813D}
+	EndGlobalSection
+EndGlobal

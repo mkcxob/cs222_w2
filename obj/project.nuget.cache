@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U1nJK6ToCB3VZlYwYlZIFEQ4DZ52c1dRGhCg98BQR7AY98c8SL0/75+uXX0RV7KcoAkWzfoNNlGWLSoB9pErYA==",
+  "success": true,
+  "projectFilePath": "/Users/michaelobrien/Studio/carolina-university/cs222_w2/cs222_w2.csproj",
+  "expectedPackageFiles": [
+    "/Users/michaelobrien/.nuget/packages/mstest.analyzers/3.8.3/mstest.analyzers.3.8.3.nupkg.sha512",
+    "/Users/michaelobrien/.nuget/packages/mstest.testframework/3.8.3/mstest.testframework.3.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}
